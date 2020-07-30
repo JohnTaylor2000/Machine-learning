@@ -2,7 +2,7 @@
 
 Code that applies machine learning to science problems.
 
-Test-fit
+## Test-fit
 
 Explore the Universal approximation Theorem by fitting a range of functions using a neural network. We also explore extrapolation i.e. beyond the range of data used to fit the model also known as the ability to generalise.
 
