@@ -15,3 +15,7 @@ We investigate extrapolation and the **role of the activation function in extrap
 The impact of key parameters on the computation time, such as the batch size and the number of hidden units can be investigated. The batch size can be increased to match the Epoch size so that the optimisation is not stochastic.
 
 Running with and without a GPU/TPU makes a big difference to training times. We also illustrate how you can add timers to code, in addition to what is currently available, that allow you to easily time any section of code.
+
+## License
+
+Apache License 2.0
